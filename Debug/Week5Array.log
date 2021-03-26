@@ -1,0 +1,7 @@
+﻿  Week5Array.cpp
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Week5Array\Week5Array.cpp(103,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Week5Array\Week5Array.cpp(132,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Week5Array\Week5Array.cpp(134,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Week5Array\Week5Array.cpp(150,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Week5Array\Week5Array.cpp(152,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Week5Array.vcxproj -> C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Week5Array\Debug\Week5Array.exe
